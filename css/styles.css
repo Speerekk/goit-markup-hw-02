@@ -1,0 +1,13 @@
+.body {
+    font-family: 'Raleway', sans-serif;
+        font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.page {
+    background-color: #ffffff;
+    color: #212121;
+}
