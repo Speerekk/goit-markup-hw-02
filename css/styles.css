@@ -1,6 +1,23 @@
+:root {
+    --primary-text-color: #212121;
+    --accent-color: #2196F3;
+
+}
+
 .body {
     font-family: 'Raleway', sans-serif;
-        font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    color: var(--primary-text-color)
+}
+
+.header {
+    
+}
+
+.button {
+    background-color: #2196F3;
+    color: #ffffff;
 }
 
 ul {
@@ -26,5 +43,12 @@ ul {
 }
 
 .subtitle {
-    
+
+}
+
+.section {
+}
+
+.section-title {
+    color: #212121;
 }
