@@ -216,6 +216,44 @@ top: 774px;
     background: #F5F4FA;
     position: absolute;
 }
+
+/* Team */
+
+.team {
+    position: absolute;
+    width: 264px;
+    height: 42px;
+    left: 668px;
+    top: 1540px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.staff {
+    position: absolute;
+    width: 1170px;
+    height: 368px;
+    left: 215px;
+    top: 1632px;    
+}
+
+.card-bg {
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 215px;
+    top: 1632px;
+    background: #FFFFFF;
+    /* material shadow v1 */
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+
 .section-title {
     width: 696px;
     height: 120px;
